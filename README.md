@@ -30,31 +30,29 @@ I love designing web pages, using new technologies and learning many new things 
 
 ## 💼 Technical Skills
 
-<h2>Frontend</h2>
-<span style="background-color:#96112d; padding:5px">JavaScript</span>
-<span style="background-color:green; padding:5px">TypeScript</span>
-<span style="background-color:yellow; padding:5px">JQuery</span>
-<span style="background-color:orange; padding:5px">CSS</span>
-<span style="background-color:blue; padding:5px">HTML</span>
-<br>
-<span style="background-color:red; padding:5px">Angular</span>
-<span style="background-color:#b9935a; padding:5px">VueJS</span>
-<br>
-<span style="background-color:#687b7e; padding:5px">CSS3</span>
-<span style="background-color:#1c0d02; padding:5px">CSS-Stylus</span>
-<span style="background-color:#7f69a5; padding:5px">CSS-Less</span>
+## Frontend
+- <i style="color: #96112d;" class="fab fa-js"></i> JavaScript
+- <i style="color: green;" class="fab fa-js"></i> TypeScript
+- <i style="color: yellow;" class="fab fa-js"></i> JQuery
+- <i style="color: orange;" class="fab fa-css3"></i> CSS
+- <i style="color: blue;" class="fab fa-html5"></i> HTML
+- <i style="color: red;" class="fab fa-angular"></i> Angular
+- <i style="color: #b9935a;" class="fab fa-vuejs"></i> VueJS
+- <i style="color: #687b7e;" class="fab fa-css3"></i> CSS3
+- <i style="color: #1c0d02;" class="fab fa-css3"></i> CSS-Stylus
+- <i style="color: #7f69a5;" class="fab fa-css3"></i> CSS-Less
 
-<h2>Backend</h2>
-<span style="background-color:#bec5b7; padding:5px">Python</span>
-<span style="background-color:#f75b53; padding:5px">Java</span>
-<span style="background-color:#ff00fb; padding:5px">PHP</span>
-<span style="background-color:#ff00fb; padding:5px">Firebase</span>
-<span style="background-color:#ff00fb; padding:5px">MongoDB</span>
-<span style="background-color:#ef6900; padding:5px">SQLAlchemist</span>
-<br>
-<h2>APIS</h2>
-<span style="background-color:#2b96ff; padding:5px">Flask(Python)</span>
-<span style="background-color:#edff21; padding:5px">Node Express(Javascript)</span>
+## Backend
+- <i style="color: #bec5b7;" class="fab fa-python"></i> Python
+- <i style="color: #f75b53;" class="fab fa-java"></i> Java
+- <i style="color: #ff00fb;" class="fab fa-php"></i> PHP
+- <i style="color: #ff00fb;" class="fas fa-fire"></i> Firebase
+- <i style="color: #ff00fb;" class="fas fa-database"></i> MongoDB
+- <i style="color: #ef6900;" class="fab fa-python"></i> SQLAlchemist
+
+## APIs
+- <i style="color: #2b96ff;" class="fab fa-python"></i> Flask (Python)
+- <i style="color: #edff21;" class="fab fa-node-js"></i> Node Express (JavaScript)
 
 
 <!--
