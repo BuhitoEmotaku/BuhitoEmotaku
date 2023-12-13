@@ -3,7 +3,7 @@ I'm <a href="https://emotaku.ddns.net/about" target="_blank" rel="noreferrer">Bu
 </h1>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Electronic Starter⚡ and semi-professional Speecuber⬜🟥🟩🟨🟫🟦!
+I'm a Full-Stack Web Developer 💻, Beginner electronic⚡ and semi-professional Speecuber⬜🟥🟩🟨🟫🟦!
 </h2> 
 
 I love designing web pages, using new technologies and learning many new things in the process.
