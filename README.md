@@ -31,30 +31,30 @@ I love designing web pages, using new technologies and learning many new things 
 ## 💼 Technical Skills
 
 <h2>Frontend</h2>
-<span width=”200" height=”200" background-color: red>JavaScript</span>
-<span width=”200" height=”200" background-color: red>TypeScript</span>
-<span width=”200" height=”200" background-color: red>JQuery</span>
-<span width=”200" height=”200" background-color: red>CSS</span>
-<span width=”200" height=”200" background-color: red>HTML</span>
+<span style="background-color:#96112d; padding:5px">JavaScript</span>
+<span style="background-color:green; padding:5px">TypeScript</span>
+<span style="background-color:yellow; padding:5px">JQuery</span>
+<span style="background-color:orange; padding:5px">CSS</span>
+<span style="background-color:blue; padding:5px">HTML</span>
 <br>
-<span width=”200" height=”200" background-color: red>Angular</span>
-<span width=”200" height=”200" background-color: red>VueJS</span>
+<span style="background-color:red; padding:5px">Angular</span>
+<span style="background-color:#b9935a; padding:5px">VueJS</span>
 <br>
-<span width=”200" height=”200" background-color: red>CSS3</span>
-<span width=”200" height=”200" background-color: red>CSS-Stylus</span>
-<span width=”200" height=”200" background-color: red>CSS-Less</span>
+<span style="background-color:#687b7e; padding:5px">CSS3</span>
+<span style="background-color:#1c0d02; padding:5px">CSS-Stylus</span>
+<span style="background-color:#7f69a5; padding:5px">CSS-Less</span>
 
 <h2>Backend</h2>
-<span width=”200" height=”200" background-color: red>Python</span>
-<span width=”200" height=”200" background-color: red>Java</span>
-<span width=”200" height=”200" background-color: red>PHP</span>
-<span width=”200" height=”200" background-color: red>Firebase</span>
-<span width=”200" height=”200" background-color: red>MongoDB</span>
-<span width=”200" height=”200" background-color: red>SQLAlchemist</span>
+<span style="background-color:#bec5b7; padding:5px">Python</span>
+<span style="background-color:#f75b53; padding:5px">Java</span>
+<span style="background-color:#ff00fb; padding:5px">PHP</span>
+<span style="background-color:#ff00fb; padding:5px">Firebase</span>
+<span style="background-color:#ff00fb; padding:5px">MongoDB</span>
+<span style="background-color:#ef6900; padding:5px">SQLAlchemist</span>
 <br>
 <h2>APIS</h2>
-<span width=”200" height=”200" background-color: red>Flask(Python)</span>
-<span width=”200" height=”200" background-color: red>Node Express(Javascript)</span>
+<span style="background-color:#2b96ff; padding:5px">Flask(Python)</span>
+<span style="background-color:#edff21; padding:5px">Node Express(Javascript)</span>
 
 
 <!--
