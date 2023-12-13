@@ -1,8 +1,6 @@
-### Hellooo 👋
-
-<h3 align="center">
+<h1 align="center">
 I'm <a href="https://emotaku.ddns.net/about" target="_blank" rel="noreferrer">Buhito</a>😊
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Electronic Starter⚡ and semi-professional Speecuber⬜🟥🟩🟨🟫🟦!
