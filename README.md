@@ -18,6 +18,7 @@ I love designing web pages, using new technologies and learning many new things 
 ## 🔭 What I am more focused on?
 
 - Emotaku.ddns.net
+- RubikMaster
 - New Angular web project
 
 ## 🌱 What I am learning right now?
